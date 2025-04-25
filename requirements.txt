@@ -1,3 +1,5 @@
 tinkoff-investments
 python-dotenv
 ta
+numpy
+pandas
